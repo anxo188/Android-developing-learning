@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialogTest</string>
+    <string name="alertMessage">Confirmación</string>
+    <string name="confirmacion">Continuar?</string>
+    <string name="afirmativo">Si</string>
+    <string name="negativo">Nop</string>
+</resources>
